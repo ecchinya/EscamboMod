@@ -1,0 +1,2818 @@
+{
+    "VanillaShops": [
+        {
+            "ShopName": "DwarfShop",
+            "AddStockAboveVanilla": true,
+            "ReplaceInsteadOfAdd": true,
+            "ItemStocks": [
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Quartz",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Quartz",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Quartz",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Quartz",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Quartz",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Quartz",
+                    "StockCurrencyStack": "21",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Quartz",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Quartz",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "20",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "38",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "32",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Bomb",
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Bomb",
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Oil of Garlic",
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "21",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Ore",
+                    "StockCurrencyStack": "112",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Ore",
+                    "StockCurrencyStack": "167",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Ore",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Ore",
+                    "StockCurrencyStack": "34",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Ore",
+                    "StockCurrencyStack": "56",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Ore",
+                    "StockCurrencyStack": "139",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Ore",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Ore",
+                    "StockCurrencyStack": "28",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Ore",
+                    "StockCurrencyStack": "56",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Ore",
+                    "StockCurrencyStack": "84",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Ore",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Ore",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Ore",
+                    "StockCurrencyStack": "28",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Ore",
+                    "StockCurrencyStack": "70",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Ore",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Ore",
+                    "StockCurrencyStack": "14",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Oil of Garlic",
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Bomb",
+                        "Mega Bomb",
+                        "Miner's Treat",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Ore",
+                    "StockCurrencyStack": "20",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Ore",
+                    "StockCurrencyStack": "30",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Ore",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Ore",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Ore",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Ore",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Ore",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Ore",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "11",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Ore",
+                    "StockCurrencyStack": "84",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Ore",
+                    "StockCurrencyStack": "125",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Ore",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Ore",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Ore",
+                    "StockCurrencyStack": "42",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Ore",
+                    "StockCurrencyStack": "105",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Ore",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Ore",
+                    "StockCurrencyStack": "21",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Life Elixir",
+                        "Cherry Bomb",
+                        "Bomb",
+                        "Mega Bomb",
+                        "Miner's Treat",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Oil of Garlic",
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Bar",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Ore",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Ore",
+                    "StockCurrencyStack": "15",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Ore",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Ore",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Ore",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Ore",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Ore",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radioactive Ore",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Refined Quartz",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Refined Quartz",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Refined Quartz",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Refined Quartz",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Refined Quartz",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Refined Quartz",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Refined Quartz",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Battery Pack",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Battery Pack",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Battery Pack",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Battery Pack",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Battery Pack",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Battery Pack",
+                    "StockCurrencyStack": "21",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Battery Pack",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Battery Pack",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll I",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll I",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll I",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll I",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Bomb",
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll I",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll I",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll IV",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll IV",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll IV",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll IV",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Bomb",
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll IV",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll IV",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll III",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll III",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll III",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll III",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Bomb",
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll III",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll III",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll II",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll II",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Oil of Garlic",
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll II",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cherry Bomb",
+                        "Bomb",
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll II",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dwarf Scroll II",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Essence",
+                    "StockCurrencyStack": "40",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Essence",
+                    "StockCurrencyStack": "60",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Essence",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Essence",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Essence",
+                    "StockCurrencyStack": "20",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Essence",
+                    "StockCurrencyStack": "50",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Essence",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Essence",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crab",
+                    "StockCurrencyStack": "29",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crab",
+                    "StockCurrencyStack": "43",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crab",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crab",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crab",
+                    "StockCurrencyStack": "15",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crab",
+                    "StockCurrencyStack": "36",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crab",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crab",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slime",
+                    "StockCurrencyStack": "200",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slime",
+                    "StockCurrencyStack": "300",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slime",
+                    "StockCurrencyStack": "30",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slime",
+                    "StockCurrencyStack": "60",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slime",
+                    "StockCurrencyStack": "100",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slime",
+                    "StockCurrencyStack": "250",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slime",
+                    "StockCurrencyStack": "20",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slime",
+                    "StockCurrencyStack": "50",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bug Meat",
+                    "StockCurrencyStack": "125",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bug Meat",
+                    "StockCurrencyStack": "188",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bug Meat",
+                    "StockCurrencyStack": "19",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bug Meat",
+                    "StockCurrencyStack": "38",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bug Meat",
+                    "StockCurrencyStack": "63",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bug Meat",
+                    "StockCurrencyStack": "157",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bug Meat",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bug Meat",
+                    "StockCurrencyStack": "32",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bat Wing",
+                    "StockCurrencyStack": "40",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bat Wing",
+                    "StockCurrencyStack": "60",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bat Wing",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bat Wing",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bat Wing",
+                    "StockCurrencyStack": "20",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bat Wing",
+                    "StockCurrencyStack": "50",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bat Wing",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bat Wing",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Solar Essence",
+                    "StockCurrencyStack": "40",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Solar Essence",
+                    "StockCurrencyStack": "60",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Solar Essence",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Cherry Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Solar Essence",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Solar Essence",
+                    "StockCurrencyStack": "20",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Solar Essence",
+                    "StockCurrencyStack": "50",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Solar Essence",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Solar Essence",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry Bomb",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Life Elixir"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry Bomb",
+                    "StockCurrencyStack": "38",
+                    "ItemNames": [
+                        "Oil of Garlic"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry Bomb",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Bomb"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry Bomb",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Mega Bomb",
+                        "Miner's Treat"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry Bomb",
+                    "StockCurrencyStack": "32",
+                    "ItemNames": [
+                        "Rarecrow 6"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry Bomb",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Stone Cairn"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry Bomb",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!HasCraftingRecipe Weathered-Floor"
+                    ],
+                    "ItemNames": [
+                        "Weathered Floor"
+                    ],
+                    "ItemIDs": []
+                }
+            ]
+        }
+    ]
+}

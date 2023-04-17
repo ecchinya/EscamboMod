@@ -1,0 +1,13 @@
+{
+    "Name": "MarlonShop com escambio",
+    "Author": "alichan",
+    "Version": "1.0",
+    "Description": "MarlonShop com escambio.",
+    "UniqueID": "MarlonShopEscambio",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

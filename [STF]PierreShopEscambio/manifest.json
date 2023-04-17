@@ -1,0 +1,13 @@
+{
+    "Name": "PierreShop com escambio",
+    "Author": "alichan",
+    "Version": "1.0",
+    "Description": "PierreShop com escambio.",
+    "UniqueID": "PierreShopEscambio",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

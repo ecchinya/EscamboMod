@@ -1,0 +1,13 @@
+{
+    "Name": "HarveyShop com escambio",
+    "Author": "alichan",
+    "Version": "1.0",
+    "Description": "HarveyShop com escambio.",
+    "UniqueID": "HarveyShopEscambio",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

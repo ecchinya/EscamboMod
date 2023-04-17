@@ -1,0 +1,13 @@
+{
+    "Name": "TravellingMerchant com escambio",
+    "Author": "alichan",
+    "Version": "1.0",
+    "Description": "TravellingMerchant com escambio.",
+    "UniqueID": "TravellingMerchantEscambio",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

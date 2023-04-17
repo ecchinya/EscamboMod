@@ -1,0 +1,13 @@
+{
+    "Name": "MarnieShop com escambio",
+    "Author": "alichan",
+    "Version": "1.0",
+    "Description": "MarnieShop com escambio.",
+    "UniqueID": "MarnieShopEscambio",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

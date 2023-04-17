@@ -1,0 +1,13 @@
+{
+    "Name": "RobinShop com escambio",
+    "Author": "alichan",
+    "Version": "1.0",
+    "Description": "RobinShop com escambio.",
+    "UniqueID": "RobinShopEscambio",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

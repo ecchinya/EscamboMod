@@ -1,0 +1,13 @@
+{
+    "Name": "JojaShop com escambio",
+    "Author": "alichan",
+    "Version": "1.0",
+    "Description": "JojaShop com escambio.",
+    "UniqueID": "JojaShopEscambio",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

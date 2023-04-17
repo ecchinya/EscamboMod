@@ -1,0 +1,13 @@
+{
+    "Name": "SandyShop com escambio",
+    "Author": "alichan",
+    "Version": "1.0",
+    "Description": "SandyShop com escambio.",
+    "UniqueID": "SandyShopEscambio",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

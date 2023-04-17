@@ -1,0 +1,13 @@
+{
+    "Name": "WillyShop com escambio",
+    "Author": "alichan",
+    "Version": "1.0",
+    "Description": "WillyShop com escambio.",
+    "UniqueID": "WillyShopEscambio",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}
