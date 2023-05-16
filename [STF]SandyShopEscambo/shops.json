@@ -1,0 +1,5217 @@
+{
+    "VanillaShops": [
+        {
+            "ShopName": "SandyShop",
+            "AddStockAboveVanilla": true,
+            "ReplaceInsteadOfAdd": true,
+            "ItemStocks": [
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "34",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "17",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "84",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "42",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "42",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "50",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "9",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "9",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "34",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "17",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "84",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "42",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "42",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "50",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "9",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "9",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Emerald",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Aquamarine",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ruby",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "23",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "12",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "12",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "14",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amethyst",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "12",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "28",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "14",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "14",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "17",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Topaz",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Jade",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "14",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "34",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "17",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "17",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "20",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Earth Crystal",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "25",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "63",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "32",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "32",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "38",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Frozen Tear",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "20",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "12",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fire Quartz",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "25",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "15",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "23",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "12",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "56",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "28",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "28",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "34",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "16",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "40",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "20",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "20",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "24",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "18",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "50",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "25",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "125",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "63",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "63",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "75",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "17",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "9",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "42",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "21",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "21",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "25",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "34",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "17",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "84",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "42",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "42",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Ice Cream"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "50",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "9",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "9",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Cactus Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Rhubarb Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Starfruit Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Beet Seeds"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        196
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "18",
+                    "ItemNames": [
+                        "Wall Cactus"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Coconut"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "10"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "50",
+                    "When": [
+                        "!d Mon"
+                    ],
+                    "ItemNames": [
+                        "Large Cottage Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!d Tue"
+                    ],
+                    "ItemNames": [
+                        "Cactus Fruit"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "25",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [
+                        "Omni Geode"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "3"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "125",
+                    "When": [
+                        "!d Wed"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1554
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Deluxe Speed-Gro"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "63",
+                    "When": [
+                        "!d Thu"
+                    ],
+                    "ItemNames": [
+                        "Old World Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "63",
+                    "When": [
+                        "!d Fri"
+                    ],
+                    "ItemNames": [
+                        "Large Green Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!d Sat"
+                    ],
+                    "ItemNames": [
+                        "Quality Retaining Soil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "75",
+                    "When": [
+                        "!d Sun"
+                    ],
+                    "ItemNames": [
+                        "Large Brown Couch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "!d Tue/r 0.2"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2734,
+                        2736,
+                        2738,
+                        2740
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Cream",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "!d Sat/r 0.5"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2748,
+                        2812
+                    ]
+                }
+            ]
+        }
+    ]
+}

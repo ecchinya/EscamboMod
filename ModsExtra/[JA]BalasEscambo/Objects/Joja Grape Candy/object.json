@@ -1,0 +1,23 @@
+{
+  "Name": "Joja Grape Candy",
+  "Description": "Joja Grape Candy",
+  "Category": "Cooking",
+  "Edibility": 30,
+  "Price": 0,
+  "EdibleIsDrink": false,
+  "IsColored": false,
+
+  "GiftTastes": {
+    "Like": ["Shane", "Pam", "Willy", "Demetrius", "Emily"],
+	"Dislike": [],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Bala de uva da Joja",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Bala de uva da joja",
+    },
+}

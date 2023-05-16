@@ -1,0 +1,10 @@
+{
+   "Name": "BalasEscambo",
+   "Author": "alichan",
+   "Description": "Balas docinhas",
+   "Version": "1.0",
+   "UniqueID": "alichan.Balas.Escambo",
+    "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+    }
+}

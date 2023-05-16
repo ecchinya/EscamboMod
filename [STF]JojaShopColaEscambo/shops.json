@@ -1,0 +1,1300 @@
+{
+    "Shops": [
+        {
+            "ShopName": "JojaBuyCola",
+            "ItemStocks": [
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coal",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Morel",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Common Mushroom",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chanterelle",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmonberry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Grape",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spice Berry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blackberry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ginger",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Albacore",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Anchovy",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blobfish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blue Discus",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bream",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bullhead",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Carp",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Catfish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chub",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dorado",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eel",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Flounder",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ghostfish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Algae",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Halibut",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Herring",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Pip",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Largemouth Bass",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lava Eel",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lingcod",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lionfish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Midnight Carp",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Midnight Squid",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Octopus",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Perch",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pike",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pufferfish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Rainbow Trout",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Mullet",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Snapper",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmon",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sandfish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sardine",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Scorpion Carp",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sea Cucumber",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Shad",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slimejack",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Smallmouth Bass",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spook Fish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Squid",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Stingray",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Stonefish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sturgeon",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sunfish",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Super Cucumber",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tiger Trout",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tilapia",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tuna",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Salmon",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Walleye",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "White Algae",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Woodskip",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ancient Fruit",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apple",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apricot",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Banana",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blueberry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cranberries",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mango",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Melon",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Orange",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pomegranate",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pineapple",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Strawberry",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Peach",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eggplant",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiddlehead Fern",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Garlic",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Bean",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Hops",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Kale",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Parsnip",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Potato",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pumpkin",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Cabbage",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Taro Root",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tomato",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Unmilled Rice",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wheat",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Yam",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Corn",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cauliflower",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bok Choy",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Beet",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Artichoke",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amaranth",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Joja Cola"
+                    ],
+                    "ItemIDs": []
+                }
+            ],
+            "When": [
+                "t 900 2300"
+            ],
+            "ClosedMessage": "Aguarde o 900 estar atr\u00e1s do balc\u00e3o para abrir a loja."
+        }
+    ]
+}

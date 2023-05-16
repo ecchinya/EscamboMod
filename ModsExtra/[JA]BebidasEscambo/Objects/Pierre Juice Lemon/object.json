@@ -1,0 +1,22 @@
+{
+  "Name": "Pierre Juice Lemon",
+  "Description": "Pierre's Natural Lemon Juice, made with the sweetest lemon from Pelicanos Town",
+  "Category": "Cooking",
+  "Edibility": 13,
+  "Price": 0,
+  "EdibleIsDrink": true,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Caroline", "Clint", "Demetrius", "Emily", "Evelyn", "George", "Gus", "Harvey",  "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sam", "Sandy", "Sebastian", "Jas", "Vincent"],
+	"Dislike": ["Haley", "Shane"],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Suco de Limão do Pierre",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Suco natural de limão do Pierre, feito com o limão mais doce da vila Pelicanos",
+    },
+}

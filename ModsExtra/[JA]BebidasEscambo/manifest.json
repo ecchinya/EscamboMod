@@ -1,0 +1,10 @@
+{
+   "Name": "BebidasEscambo",
+   "Author": "alichan",
+   "Description": "Novas Bebidas Stardew para escambo mod",
+   "Version": "1.0",
+   "UniqueID": "alichan.Escambo.Bebidas",
+    "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+    }
+}

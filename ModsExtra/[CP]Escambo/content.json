@@ -1,0 +1,33 @@
+{
+   "Format": "1.29.0",
+   "Changes": [
+       {
+           "Action": "Load",
+           "Target": "Maps/SeedShop",
+           "FromFile": "assets/SeedShop.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/FishShop",
+           "FromFile": "assets/FishShop.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/JojaMart",
+           "FromFile": "assets/JojaMart.tbin"
+       },
+
+
+       {
+           "Action": "Load",
+           "Target": "Maps/townInterior",
+           "FromFile": "assets/townInterior.png"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/townInterior.pt-BR",
+           "FromFile": "assets/townInterior.pt-BR.png"
+       },
+   ]
+}
+

@@ -1,0 +1,15 @@
+{
+    "Name": "PierreShop com escambo",
+    "Author": "alichan",
+    "Version": "1.2",
+    "Description": "PierreShop com escambo.",
+    "UniqueID": "PierreShopEscambo",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [
+        "Nexus:16343"
+    ],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

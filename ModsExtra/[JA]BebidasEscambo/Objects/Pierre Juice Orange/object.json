@@ -1,0 +1,22 @@
+{
+  "Name": "Pierre Juice Orange",
+  "Description": "Pierre's Natural Orange Juice, made with the sweetest orange from Pelicanos Town",
+  "Category": "Cooking",
+  "Edibility": 13,
+  "Price": 0,
+  "EdibleIsDrink": true,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Gus", "Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey",  "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	"Dislike": [],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Suco de Laranja do Pierre",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Suco natural de Laranja do Pierre, feito com a laranja mais doce da vila Pelicanos",
+    },
+}

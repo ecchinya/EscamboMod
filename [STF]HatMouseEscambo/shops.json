@@ -1,0 +1,1896 @@
+{
+    "VanillaShops": [
+        {
+            "ShopName": "HatMouse",
+            "AddStockAboveVanilla": true,
+            "ReplaceInsteadOfAdd": true,
+            "ItemStocks": [
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "J"
+                    ],
+                    "ItemNames": [
+                        "Cowboy Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "m 1000000"
+                    ],
+                    "ItemNames": [
+                        "Bowler Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "m 100000"
+                    ],
+                    "ItemNames": [
+                        "Sombrero"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Official Cap",
+                        "Plum Chapeau",
+                        "Goblin Mask",
+                        "Delicate Bow",
+                        "Trucker Hat",
+                        "Polka Bow",
+                        "Gnome's Cap",
+                        "Cowgal Hat",
+                        "Cowpoke Hat",
+                        "Archer's Cap",
+                        "Chef Hat",
+                        "Elegant Turban"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Blue Bonnet"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "i 182"
+                    ],
+                    "ItemNames": [
+                        "Chicken Mask"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Marnie 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Krobus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Marnie 1250/f George 1250/f Vincent 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Demetrius 1250/f Wizard 1250/f Jodi 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Pierre 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Gus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1"
+                    ],
+                    "ItemNames": [
+                        "Tropiclip"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 1250",
+                        "f Alex 1250",
+                        "f Elliott 1250",
+                        "f Emily 1250",
+                        "f Haley 1250",
+                        "f Harvey 1250",
+                        "f Leah 1250",
+                        "f Maru 1250",
+                        "f Penny 1250",
+                        "f Sam 1250",
+                        "f Sebastian 1250",
+                        "f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Butterfly Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1 2 3"
+                    ],
+                    "ItemNames": [
+                        "Hunter's Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "m 15000"
+                    ],
+                    "ItemNames": [
+                        "Good Ol' Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "m 250000"
+                    ],
+                    "ItemNames": [
+                        "Cool Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "m 50000"
+                    ],
+                    "ItemNames": [
+                        "Lucky Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "i 79 /i 107 /i 109 /i 124 /i 126 /i 127 /i 163"
+                    ],
+                    "ItemNames": [
+                        "Eye Patch",
+                        "Sou'wester",
+                        "Watermelon Band"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Emily 1250/f Haley 1250/f Leah 1250/f Maru 1250/f Penny 1250/f Sam 1250/f Sebastian 1250/f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Santa Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 1250/f Emily 1250/f Haley 1250/f Leah 1250"
+                    ],
+                    "ItemNames": [
+                        "Tiara"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 2500",
+                        "f Alex 2500",
+                        "f Elliott 2500",
+                        "f Emily 2500",
+                        "f Haley 2500",
+                        "f Harvey 2500",
+                        "f Leah 2500",
+                        "f Maru 2500",
+                        "f Penny 2500",
+                        "f Sam 2500",
+                        "f Sebastian 2500",
+                        "f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Mouse Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "f Abigail 2500/f Emily 2500/f Haley 2500/f Leah 2500/f Maru 2500/f Penny 2500/f Sebastian 2500/f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Cat Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "J"
+                    ],
+                    "ItemNames": [
+                        "Cowboy Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "m 1000000"
+                    ],
+                    "ItemNames": [
+                        "Bowler Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "m 100000"
+                    ],
+                    "ItemNames": [
+                        "Sombrero"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Official Cap",
+                        "Plum Chapeau",
+                        "Goblin Mask",
+                        "Delicate Bow",
+                        "Trucker Hat",
+                        "Polka Bow",
+                        "Gnome's Cap",
+                        "Cowgal Hat",
+                        "Cowpoke Hat",
+                        "Archer's Cap",
+                        "Chef Hat",
+                        "Elegant Turban"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Blue Bonnet"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "i 182"
+                    ],
+                    "ItemNames": [
+                        "Chicken Mask"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Marnie 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Krobus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Marnie 1250/f George 1250/f Vincent 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Demetrius 1250/f Wizard 1250/f Jodi 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Pierre 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Gus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1"
+                    ],
+                    "ItemNames": [
+                        "Tropiclip"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 1250",
+                        "f Alex 1250",
+                        "f Elliott 1250",
+                        "f Emily 1250",
+                        "f Haley 1250",
+                        "f Harvey 1250",
+                        "f Leah 1250",
+                        "f Maru 1250",
+                        "f Penny 1250",
+                        "f Sam 1250",
+                        "f Sebastian 1250",
+                        "f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Butterfly Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1 2 3"
+                    ],
+                    "ItemNames": [
+                        "Hunter's Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "m 15000"
+                    ],
+                    "ItemNames": [
+                        "Good Ol' Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "m 250000"
+                    ],
+                    "ItemNames": [
+                        "Cool Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "m 50000"
+                    ],
+                    "ItemNames": [
+                        "Lucky Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "i 79 /i 107 /i 109 /i 124 /i 126 /i 127 /i 163"
+                    ],
+                    "ItemNames": [
+                        "Eye Patch",
+                        "Sou'wester",
+                        "Watermelon Band"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Emily 1250/f Haley 1250/f Leah 1250/f Maru 1250/f Penny 1250/f Sam 1250/f Sebastian 1250/f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Santa Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 1250/f Emily 1250/f Haley 1250/f Leah 1250"
+                    ],
+                    "ItemNames": [
+                        "Tiara"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 2500",
+                        "f Alex 2500",
+                        "f Elliott 2500",
+                        "f Emily 2500",
+                        "f Haley 2500",
+                        "f Harvey 2500",
+                        "f Leah 2500",
+                        "f Maru 2500",
+                        "f Penny 2500",
+                        "f Sam 2500",
+                        "f Sebastian 2500",
+                        "f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Mouse Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "f Abigail 2500/f Emily 2500/f Haley 2500/f Leah 2500/f Maru 2500/f Penny 2500/f Sebastian 2500/f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Cat Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "J"
+                    ],
+                    "ItemNames": [
+                        "Cowboy Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 1000000"
+                    ],
+                    "ItemNames": [
+                        "Bowler Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 100000"
+                    ],
+                    "ItemNames": [
+                        "Sombrero"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Official Cap",
+                        "Plum Chapeau",
+                        "Goblin Mask",
+                        "Delicate Bow",
+                        "Trucker Hat",
+                        "Polka Bow",
+                        "Gnome's Cap",
+                        "Cowgal Hat",
+                        "Cowpoke Hat",
+                        "Archer's Cap",
+                        "Chef Hat",
+                        "Elegant Turban"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Blue Bonnet"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "i 182"
+                    ],
+                    "ItemNames": [
+                        "Chicken Mask"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Marnie 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Krobus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Marnie 1250/f George 1250/f Vincent 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Demetrius 1250/f Wizard 1250/f Jodi 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Pierre 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Gus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1"
+                    ],
+                    "ItemNames": [
+                        "Tropiclip"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250",
+                        "f Alex 1250",
+                        "f Elliott 1250",
+                        "f Emily 1250",
+                        "f Haley 1250",
+                        "f Harvey 1250",
+                        "f Leah 1250",
+                        "f Maru 1250",
+                        "f Penny 1250",
+                        "f Sam 1250",
+                        "f Sebastian 1250",
+                        "f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Butterfly Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1 2 3"
+                    ],
+                    "ItemNames": [
+                        "Hunter's Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 15000"
+                    ],
+                    "ItemNames": [
+                        "Good Ol' Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 250000"
+                    ],
+                    "ItemNames": [
+                        "Cool Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 50000"
+                    ],
+                    "ItemNames": [
+                        "Lucky Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "i 79 /i 107 /i 109 /i 124 /i 126 /i 127 /i 163"
+                    ],
+                    "ItemNames": [
+                        "Eye Patch",
+                        "Sou'wester",
+                        "Watermelon Band"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Emily 1250/f Haley 1250/f Leah 1250/f Maru 1250/f Penny 1250/f Sam 1250/f Sebastian 1250/f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Santa Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Emily 1250/f Haley 1250/f Leah 1250"
+                    ],
+                    "ItemNames": [
+                        "Tiara"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 2500",
+                        "f Alex 2500",
+                        "f Elliott 2500",
+                        "f Emily 2500",
+                        "f Haley 2500",
+                        "f Harvey 2500",
+                        "f Leah 2500",
+                        "f Maru 2500",
+                        "f Penny 2500",
+                        "f Sam 2500",
+                        "f Sebastian 2500",
+                        "f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Mouse Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 2500/f Emily 2500/f Haley 2500/f Leah 2500/f Maru 2500/f Penny 2500/f Sebastian 2500/f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Cat Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "J"
+                    ],
+                    "ItemNames": [
+                        "Cowboy Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 1000000"
+                    ],
+                    "ItemNames": [
+                        "Bowler Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 100000"
+                    ],
+                    "ItemNames": [
+                        "Sombrero"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Official Cap",
+                        "Plum Chapeau",
+                        "Goblin Mask",
+                        "Delicate Bow",
+                        "Trucker Hat",
+                        "Polka Bow",
+                        "Gnome's Cap",
+                        "Cowgal Hat",
+                        "Cowpoke Hat",
+                        "Archer's Cap",
+                        "Chef Hat",
+                        "Elegant Turban"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Blue Bonnet"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "i 182"
+                    ],
+                    "ItemNames": [
+                        "Chicken Mask"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Marnie 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Krobus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Marnie 1250/f George 1250/f Vincent 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Demetrius 1250/f Wizard 1250/f Jodi 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Pierre 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Gus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1"
+                    ],
+                    "ItemNames": [
+                        "Tropiclip"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250",
+                        "f Alex 1250",
+                        "f Elliott 1250",
+                        "f Emily 1250",
+                        "f Haley 1250",
+                        "f Harvey 1250",
+                        "f Leah 1250",
+                        "f Maru 1250",
+                        "f Penny 1250",
+                        "f Sam 1250",
+                        "f Sebastian 1250",
+                        "f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Butterfly Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1 2 3"
+                    ],
+                    "ItemNames": [
+                        "Hunter's Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 15000"
+                    ],
+                    "ItemNames": [
+                        "Good Ol' Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 250000"
+                    ],
+                    "ItemNames": [
+                        "Cool Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "m 50000"
+                    ],
+                    "ItemNames": [
+                        "Lucky Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "i 79 /i 107 /i 109 /i 124 /i 126 /i 127 /i 163"
+                    ],
+                    "ItemNames": [
+                        "Eye Patch",
+                        "Sou'wester",
+                        "Watermelon Band"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Emily 1250/f Haley 1250/f Leah 1250/f Maru 1250/f Penny 1250/f Sam 1250/f Sebastian 1250/f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Santa Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 1250/f Emily 1250/f Haley 1250/f Leah 1250"
+                    ],
+                    "ItemNames": [
+                        "Tiara"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 2500",
+                        "f Alex 2500",
+                        "f Elliott 2500",
+                        "f Emily 2500",
+                        "f Haley 2500",
+                        "f Harvey 2500",
+                        "f Leah 2500",
+                        "f Maru 2500",
+                        "f Penny 2500",
+                        "f Sam 2500",
+                        "f Sebastian 2500",
+                        "f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Mouse Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "10",
+                    "When": [
+                        "f Abigail 2500/f Emily 2500/f Haley 2500/f Leah 2500/f Maru 2500/f Penny 2500/f Sebastian 2500/f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Cat Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "J"
+                    ],
+                    "ItemNames": [
+                        "Cowboy Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "m 1000000"
+                    ],
+                    "ItemNames": [
+                        "Bowler Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "m 100000"
+                    ],
+                    "ItemNames": [
+                        "Sombrero"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Official Cap",
+                        "Plum Chapeau",
+                        "Goblin Mask",
+                        "Delicate Bow",
+                        "Trucker Hat",
+                        "Polka Bow",
+                        "Gnome's Cap",
+                        "Cowgal Hat",
+                        "Cowpoke Hat",
+                        "Archer's Cap",
+                        "Chef Hat",
+                        "Elegant Turban"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Blue Bonnet"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "i 182"
+                    ],
+                    "ItemNames": [
+                        "Chicken Mask"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Marnie 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Krobus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Marnie 1250/f George 1250/f Vincent 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Demetrius 1250/f Wizard 1250/f Jodi 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Caroline 1250/f Pierre 1250/f Krobus 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Clint 1250/f Elliott 1250/f Emily 1250/f Haley 1250/f Harvey 1250/f Leah 1250/f Lewis 1250/f Linus 1250/f Maru 1250/f Penny 1250/f Robin 1250/f Sam 1250/f Sebastian 1250/f Shane 1250/f Willy 1250/f Evelyn 1250/f Gus 1250/f Sandy 1250"
+                    ],
+                    "ItemNames": [
+                        "Earmuffs"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1"
+                    ],
+                    "ItemNames": [
+                        "Tropiclip"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 1250",
+                        "f Alex 1250",
+                        "f Elliott 1250",
+                        "f Emily 1250",
+                        "f Haley 1250",
+                        "f Harvey 1250",
+                        "f Leah 1250",
+                        "f Maru 1250",
+                        "f Penny 1250",
+                        "f Sam 1250",
+                        "f Sebastian 1250",
+                        "f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Butterfly Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "FarmHouseUpgradeLevel 1 2 3"
+                    ],
+                    "ItemNames": [
+                        "Hunter's Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "m 15000"
+                    ],
+                    "ItemNames": [
+                        "Good Ol' Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "m 250000"
+                    ],
+                    "ItemNames": [
+                        "Cool Cap"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "m 50000"
+                    ],
+                    "ItemNames": [
+                        "Lucky Bow"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "i 79 /i 107 /i 109 /i 124 /i 126 /i 127 /i 163"
+                    ],
+                    "ItemNames": [
+                        "Eye Patch",
+                        "Sou'wester",
+                        "Watermelon Band"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 1250/f Alex 1250/f Emily 1250/f Haley 1250/f Leah 1250/f Maru 1250/f Penny 1250/f Sam 1250/f Sebastian 1250/f Shane 1250"
+                    ],
+                    "ItemNames": [
+                        "Santa Hat"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 1250/f Emily 1250/f Haley 1250/f Leah 1250"
+                    ],
+                    "ItemNames": [
+                        "Tiara"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 2500",
+                        "f Alex 2500",
+                        "f Elliott 2500",
+                        "f Emily 2500",
+                        "f Haley 2500",
+                        "f Harvey 2500",
+                        "f Leah 2500",
+                        "f Maru 2500",
+                        "f Penny 2500",
+                        "f Sam 2500",
+                        "f Sebastian 2500",
+                        "f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Mouse Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Hat",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "f Abigail 2500/f Emily 2500/f Haley 2500/f Leah 2500/f Maru 2500/f Penny 2500/f Sebastian 2500/f Shane 2500"
+                    ],
+                    "ItemNames": [
+                        "Cat Ears"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                }
+            ]
+        }
+    ]
+}

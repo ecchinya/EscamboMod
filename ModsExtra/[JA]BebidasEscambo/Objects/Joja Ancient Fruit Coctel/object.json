@@ -1,0 +1,38 @@
+{
+  "Name": "Joja Ancient Fruit Coctel Beer",
+  "Description": "The Joja Coquetel is a refreshing and citrusy drink, with a smooth vodka touch and a sweet taste.",
+      "Category": "Cooking",
+  "Edibility": 10,
+
+"EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 300,
+    },
+  "Price": 0,
+  "EdibleIsDrink": true,
+  "IsColored": false,
+
+  "GiftTastes": {
+    "Like": ["Shane", "Pam", "Willy", "Demetrius", "Emily"],
+	"Dislike": [],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Coctel da Joja de Fruta Antiga",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "O Joja Coquetel é um drink refrescante e cítrico, com toque suave de vodka e sabor doce",
+    },
+}

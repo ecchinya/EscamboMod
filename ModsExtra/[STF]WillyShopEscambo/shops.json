@@ -1,0 +1,29 @@
+{
+    "RemoveItemsFromVanilla":[
+        "Trout Soup",
+        "Bait",
+        "Crab Pot",
+        "Spinner",
+        "Trap Bobber",
+        "Lead Bobber",
+        "Treasure Hunter",
+        "Cork Bobber",
+        "Barbed Hook",
+        "Dressed Spinner",
+        "Magnet",
+        "Large Fish Tank",
+        "Small Fish Tank",
+        "Deluxe Fish Tank",
+        "Fisher Double Bed"
+    ],
+    "VanillaShops": [
+        {
+            "ShopName": "WillyShop",
+            "AddStockAboveVanilla": false,
+            "ReplaceInsteadOfAdd": false,
+            "ItemStocks": [
+                
+            ]
+        }
+    ]
+}

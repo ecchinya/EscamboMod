@@ -1,0 +1,22 @@
+{
+  "Name": "Pierre Juice Peach",
+  "Description": "Pierre's Natural Peach Juice, made with the sweetest peach from Pelicanos Town",
+  "Category": "Cooking",
+  "Edibility": 13,
+  "Price": 0,
+  "EdibleIsDrink": true,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Robin", "Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Leo", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	"Dislike": [],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Suco de Pêssego do Pierre",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Suco natural de pêssego do Pierre, feito com o pêssego mais doce da vila Pelicanos",
+    },
+}
