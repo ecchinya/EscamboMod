@@ -1,0 +1,249 @@
+{
+    "Shops": [
+        {
+            "ShopName": "HalloweenFestivalBuy",
+            "ItemStocks": [
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        746
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "17",
+                    "When": [
+                        "!HasCookingRecipe Jack-O-Lantern"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        746
+                    ],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "42",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        113
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Grave Stone"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "24",
+                    "ItemNames": [
+                        "Funky Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        746
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "9",
+                    "When": [
+                        "!HasCookingRecipe Jack-O-Lantern"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        746
+                    ],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "21",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        113
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Grave Stone"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Funky Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        746
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!HasCookingRecipe Jack-O-Lantern"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        746
+                    ],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        113
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Grave Stone"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Funky Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        746
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!HasCookingRecipe Jack-O-Lantern"
+                    ],
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        746
+                    ],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        113
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Grave Stone"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Funky Rug"
+                    ],
+                    "ItemIDs": []
+                }
+            ],
+            "When": [
+                "t 900 2300"
+            ],
+            "ClosedMessage": "Aguarde o 900 estar atr\u00e1s do balc\u00e3o para abrir a loja."
+        }
+    ]
+}

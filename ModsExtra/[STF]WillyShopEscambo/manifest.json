@@ -1,0 +1,15 @@
+{
+    "Name": "WillyShop com escambo Vanilla",
+    "Author": "alichan",
+    "Version": "1.3",
+    "Description": "WillyShop com escambo.",
+    "UniqueID": "WillyShopEscamboVanilla",
+    "MinimumApiVersion": "3.4.0",
+    "UpdateKeys": [
+        "Nexus:16343"
+    ],
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

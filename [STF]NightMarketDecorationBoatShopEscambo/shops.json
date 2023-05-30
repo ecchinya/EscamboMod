@@ -1,0 +1,207 @@
+{
+    "Shops": [
+        {
+            "ShopName": "NightMarketDecorationBoatBuy",
+            "ItemStocks": [
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Big Green Cane",
+                        "Green Canes",
+                        "Mixed Cane",
+                        "Red Canes",
+                        "Big Red Cane"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Plain Torch",
+                        "Stump Torch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Clouds Banner"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Seasonal Decor"
+                    ],
+                    "ItemIDs": [
+                        184,
+                        188,
+                        192,
+                        196,
+                        200,
+                        204
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Big Green Cane",
+                        "Green Canes",
+                        "Mixed Cane",
+                        "Red Canes",
+                        "Big Red Cane"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Plain Torch",
+                        "Stump Torch"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Clouds Banner"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Seasonal Decor"
+                    ],
+                    "ItemIDs": [
+                        184,
+                        188,
+                        192,
+                        196,
+                        200,
+                        204
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Big Green Cane",
+                        "Green Canes",
+                        "Mixed Cane",
+                        "Red Canes",
+                        "Big Red Cane",
+                        "Seasonal Decor"
+                    ],
+                    "ItemIDs": [
+                        184,
+                        188,
+                        192,
+                        196,
+                        200,
+                        204
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Plain Torch",
+                        "Stump Torch",
+                        "Clouds Banner"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Big Green Cane",
+                        "Green Canes",
+                        "Mixed Cane",
+                        "Red Canes",
+                        "Big Red Cane"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Plain Torch",
+                        "Stump Torch",
+                        "Clouds Banner"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Seasonal Decor"
+                    ],
+                    "ItemIDs": [
+                        184,
+                        188,
+                        192,
+                        196,
+                        200,
+                        204
+                    ]
+                }
+            ],
+            "When": [
+                "t 1700 2600"
+            ],
+            "ClosedMessage": "Aguarde o 1700 estar atr\u00e1s do balc\u00e3o para abrir a loja."
+        }
+    ]
+}

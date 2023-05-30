@@ -1,0 +1,22 @@
+{
+  "Name": "Joja Red Juice",
+  "Description": "Joja juice, made with red fruits of Zuzu Village",
+  "Category": "Cooking",
+  "Edibility": 15,
+  "Price": 0,
+  "EdibleIsDrink": true,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Caroline", "Emily", "Evelyn", "George", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Robin", "Sam"],
+	"Dislike": ["Haley", "Shane", "Sebastian", "Pam", "Penny"],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Suco da Joja de frutas vermelhas",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Suco da joja, feito com frutas vermelhas de Zuzu Village.",
+    },
+}

@@ -1,0 +1,77 @@
+{
+   "Format": "1.29.0",
+   "Changes": [
+       {
+           "Action": "Load",
+           "Target": "Maps/SeedShop",
+           "FromFile": "assets/SeedShop.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/FishShop",
+           "FromFile": "assets/FishShop.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/JojaMart",
+           "FromFile": "assets/JojaMart.tbin"
+       },
+
+
+       {
+           "Action": "Load",
+           "Target": "Maps/townInterior",
+           "FromFile": "assets/townInterior.png"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/townInterior.pt-BR",
+           "FromFile": "assets/townInterior.pt-BR.png"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/Town-EggFestival",
+           "FromFile": "assets/Town-EggFestival.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/Town-Christmas",
+           "FromFile": "assets/Town-Christmas.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/Forest-FlowerFestival",
+           "FromFile": "assets/Forest-FlowerFestival.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/Beach-Luau",
+           "FromFile": "assets/Beach-Luau.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/Beach-Jellies",
+           "FromFile": "assets/Beach-Jellies.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/Town-Halloween",
+           "FromFile": "assets/Town-Halloween.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/Forest-IceFestival",
+           "FromFile": "assets/Forest-IceFestival.tbin"
+       },
+       {
+           "Action": "Load",
+           "Target": "Maps/Beach-NightMarket",
+           "FromFile": "assets/Beach-NightMarket.tbin"
+       }
+
+
+       
+        
+   ]
+}
+

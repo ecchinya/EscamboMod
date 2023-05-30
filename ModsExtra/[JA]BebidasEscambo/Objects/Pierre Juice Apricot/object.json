@@ -1,0 +1,22 @@
+{
+  "Name": "Pierre Juice Apricot",
+  "Description": "Pierre's Natural Apricot Juice, made with the sweetest apricots from Ridgesige Village",
+  "Category": "Cooking",
+  "Edibility": 13,
+  "Price": 0,
+  "EdibleIsDrink": true,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliot", "Emily",  "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Leo", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	"Dislike": [],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Suco de Damasco do Pierre",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Suco natural de Damasco do Pierre, feito com o damasco mais doce de Ridgesige Village",
+    },
+}

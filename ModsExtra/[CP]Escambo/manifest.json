@@ -1,0 +1,11 @@
+{
+   "Name": "Escambo Maps",
+   "Author": "alichan",
+   "Version": "1.3",
+    "UniqueID": "alichan.EscamboMaps",
+   "Description": "Edita o Shop do Pierre para escambo",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
+

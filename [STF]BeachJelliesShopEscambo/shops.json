@@ -1,0 +1,212 @@
+{
+    "Shops": [
+        {
+            "ShopName": "BeachJelliesBuy",
+            "ItemStocks": [
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Moonlight Jellies Banner"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1687,
+                        1692
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Starport Decal"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "34",
+                    "ItemNames": [
+                        "Modern Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "42",
+                    "ItemNames": [
+                        "Seafoam Pudding"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Moonlight Jellies Banner"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Starport Decal"
+                    ],
+                    "ItemIDs": [
+                        1687,
+                        1692
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Modern Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "21",
+                    "ItemNames": [
+                        "Seafoam Pudding"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Moonlight Jellies Banner",
+                        "Starport Decal"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1687,
+                        1692
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Modern Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Seafoam Pudding"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Moonlight Jellies Banner",
+                        "Starport Decal"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1687,
+                        1692
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Modern Rug"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Seafoam Pudding"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                }
+            ],
+            "When": [
+                "t 900 2300"
+            ],
+            "ClosedMessage": "Aguarde o 900 estar atr\u00e1s do balc\u00e3o para abrir a loja."
+        }
+    ]
+}

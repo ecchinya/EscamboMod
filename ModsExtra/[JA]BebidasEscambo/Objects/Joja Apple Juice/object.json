@@ -1,0 +1,22 @@
+{
+  "Name": "Joja Apple Juice",
+  "Description": "Joja juice, made with apple of Zuzu Village",
+  "Category": "Cooking",
+  "Edibility": 15,
+  "Price": 0,
+  "EdibleIsDrink": true,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Caroline", "Emily", "Evelyn", "George", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Robin", "Sam"],
+	"Dislike": ["Haley", "Shane", "Sebastian", "Pam", "Penny"],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Suco da Joja de maçã",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Suco da joja, feito com maçãs de Zuzu Village.",
+    },
+}

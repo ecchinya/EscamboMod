@@ -1,0 +1,38 @@
+{
+  "Name": "Easter Egg",
+  "Description": "Easter Egg Festival.",
+  "Category": "Cooking",
+  "Edibility": 90,
+  "Price": 0,
+  "IsColored": false,  
+  "GiftTastes": {
+    "Like": ["Shane", "Pam", "Willy", "Demetrius", "Emily"],
+	"Dislike": [],
+  },
+"Recipe":
+  {
+        "ResultCount": 1,
+        "Ingredients":
+        [
+            {
+                "Object": "Large Milk",
+                "Count": 4,
+            },
+            {
+                "Object": "Chocolate Cake",
+                "Count": 2,
+            },
+        ],
+        "IsDefault": false,
+        "CanPurchase": false,
+        
+  },
+    "NameLocalization":
+    {
+        "pt": "Ovo de Páscoa",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Ovo de pascoa do festival.",
+    },
+}

@@ -1,0 +1,3943 @@
+{
+    "VanillaShops": [
+        {
+            "ShopName": "MarnieShop",
+            "AddStockAboveVanilla": true,
+            "ReplaceInsteadOfAdd": false,
+            "ItemStocks": [
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "125",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "500",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Duck Egg",
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "250",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "L. Goat Milk",
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Truffle",
+                        "Cheese",
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "27",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "334",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "667",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Truffle",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "11",
+                    "ItemNames": [
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "20",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "24",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "295",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "589",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Wool",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "11",
+                    "ItemNames": [
+                        "Truffle"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Duck Mayonnaise",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "18",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "22",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "264",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "527",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Truffle"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Duck Mayonnaise",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "11",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "16",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "20",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "239",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "953",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "477",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Truffle",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Egg",
+                    "StockCurrencyStack": "15",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg",
+                        "Wool",
+                        "Milk",
+                        "Large Milk",
+                        "Goat Milk",
+                        "L. Goat Milk",
+                        "Truffle",
+                        "Mayonnaise",
+                        "Duck Mayonnaise",
+                        "Cheese",
+                        "Goat Cheese",
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Heater",
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Egg",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Egg",
+                    "StockCurrencyStack": "50",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Egg",
+                    "StockCurrencyStack": "25",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg",
+                        "Wool",
+                        "Milk",
+                        "Large Milk",
+                        "Goat Milk",
+                        "L. Goat Milk",
+                        "Truffle",
+                        "Mayonnaise",
+                        "Duck Mayonnaise",
+                        "Cheese",
+                        "Goat Cheese",
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Heater",
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "34",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Golden Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Golden Egg",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Golden Egg",
+                    "StockCurrencyStack": "84",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Golden Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Golden Egg",
+                    "StockCurrencyStack": "167",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Golden Egg",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk",
+                        "Large Milk",
+                        "Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Golden Egg",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "L. Goat Milk",
+                        "Truffle",
+                        "Duck Mayonnaise",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Golden Egg",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Golden Egg",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "23",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "278",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "556",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Truffle",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wool",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "313",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Honey"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "625",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Wool",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Truffle"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "11",
+                    "ItemNames": [
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "19",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "24",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "295",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "589",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Wool"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "11",
+                    "ItemNames": [
+                        "Truffle"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Duck Mayonnaise",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "18",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "20",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "250",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "500",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Truffle",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "15",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "19",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "228",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "910",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey",
+                        "Duck Egg",
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "455",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Wool",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Truffle"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Duck Mayonnaise",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "209",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "834",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey",
+                        "Wool",
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "417",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "15",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "186",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "741",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "371",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "L. Goat Milk",
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Truffle",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "162",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "646",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Honey",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "323",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Truffle",
+                        "Duck Mayonnaise",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Mayonnaise",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "15",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "186",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "741",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "371",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Truffle",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "16",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "200",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "800",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "400",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Large Milk",
+                        "Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Truffle",
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Duck Mayonnaise",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg",
+                        "Wool",
+                        "Milk",
+                        "Large Milk",
+                        "Goat Milk",
+                        "L. Goat Milk",
+                        "Truffle",
+                        "Mayonnaise",
+                        "Duck Mayonnaise",
+                        "Cheese",
+                        "Goat Cheese",
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Heater",
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Mayonnaise",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Mayonnaise",
+                    "StockCurrencyStack": "46",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Mayonnaise",
+                    "StockCurrencyStack": "23",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "209",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "834",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey",
+                        "Wool",
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "417",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Truffle"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "167",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "667",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Honey",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "334",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Truffle",
+                        "Duck Mayonnaise",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Large Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "10",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "125",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "500",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Honey",
+                        "Duck Egg",
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "250",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "L. Goat Milk",
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Truffle",
+                        "Cheese",
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg",
+                        "Wool",
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "70",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "278",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "139",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Milk",
+                        "Goat Milk",
+                        "L. Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Truffle",
+                        "Duck Mayonnaise",
+                        "Cheese",
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Large Egg",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "105",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "417",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Honey",
+                        "Wool",
+                        "Milk",
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "209",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Goat Milk",
+                        "L. Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Truffle",
+                        "Duck Mayonnaise",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "209",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "834",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Honey",
+                        "Wool",
+                        "Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Large Egg",
+                        "Duck Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "417",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Large Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Goat Milk",
+                        "Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [
+                        "L. Goat Milk"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Truffle",
+                        "Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Duck Mayonnaise"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg",
+                        "Wool",
+                        "Milk",
+                        "Large Milk",
+                        "Goat Milk",
+                        "L. Goat Milk",
+                        "Truffle",
+                        "Mayonnaise",
+                        "Duck Mayonnaise",
+                        "Cheese",
+                        "Goat Cheese"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Heater"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "100",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "50",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Prismatic Shard",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Hay",
+                        "Honey",
+                        "Large Egg",
+                        "Duck Egg",
+                        "Wool",
+                        "Milk",
+                        "Large Milk",
+                        "Goat Milk",
+                        "L. Goat Milk",
+                        "Truffle",
+                        "Mayonnaise",
+                        "Duck Mayonnaise",
+                        "Cheese",
+                        "Goat Cheese",
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Prismatic Shard",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Heater",
+                        "Ornamental Hay Bale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Prismatic Shard",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Auto-Grabber"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Prismatic Shard",
+                    "StockCurrencyStack": "25",
+                    "When": [
+                        "JojaMartComplete"
+                    ],
+                    "ItemNames": [
+                        "Golden Egg"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Prismatic Shard",
+                    "StockCurrencyStack": "13",
+                    "When": [
+                        "CommunityCenterComplete"
+                    ],
+                    "ItemNames": [
+                        "Ostrich Egg"
+                    ],
+                    "ItemIDs": []
+                }
+            ]
+        }
+    ]
+}

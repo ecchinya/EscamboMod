@@ -1,0 +1,391 @@
+{
+    "Shops": [
+        {
+            "ShopName": "FestivalIceBuy",
+            "ItemStocks": [
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "42",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        136
+                    ],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "42",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2730
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "34",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2790
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Winter Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Icy Banner"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Winter End Table"
+                    ],
+                    "ItemIDs": [
+                        2750
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Cranberry Sauce",
+                        "Stuffing"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pumpkin Soup"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "21",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        136
+                    ],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "21",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2730
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2790
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Winter Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Icy Banner"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Winter End Table"
+                    ],
+                    "ItemIDs": [
+                        2750
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cranberry Sauce",
+                        "Stuffing"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pumpkin Soup"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        136
+                    ],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2730
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2790
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Winter Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Icy Banner",
+                        "Winter End Table"
+                    ],
+                    "ItemIDs": [
+                        2750
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cranberry Sauce",
+                        "Stuffing",
+                        "Pumpkin Soup"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        136
+                    ],
+                    "Stock": "1"
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2730
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        2790
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Winter Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Icy Banner",
+                        "Winter End Table"
+                    ],
+                    "ItemIDs": [
+                        2750
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Cranberry Sauce",
+                        "Stuffing",
+                        "Pumpkin Soup"
+                    ],
+                    "ItemIDs": [],
+                    "Stock": "1"
+                }
+            ],
+            "When": [
+                "t 900 2300"
+            ],
+            "ClosedMessage": "Aguarde o 900 estar atr\u00e1s do balc\u00e3o para abrir a loja."
+        }
+    ]
+}

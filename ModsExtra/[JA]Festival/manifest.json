@@ -1,0 +1,10 @@
+{
+   "Name": "FestivalEscambo",
+   "Author": "alichan",
+   "Description": "Novis itens para festival para escambo mod",
+   "Version": "1.3",
+   "UniqueID": "alichan.Escambo.Festival",
+    "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+    }
+}

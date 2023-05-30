@@ -1,0 +1,22 @@
+{
+  "Name": "Pierre Juice",
+  "Description": "Pierre's natural juice, made with high quality fruits",
+  "Category": "Cooking",
+  "Edibility": 15,
+  "Price": 0,
+  "EdibleIsDrink": true,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Caroline", "Emily", "Evelyn", "George", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Robin", "Sam"],
+	"Dislike": ["Haley", "Shane", "Sebastian", "Pam", "Penny"],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Suco do Pierre",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Suco natural do Pierre, feito com frutas de alta qualidade.",
+    },
+}

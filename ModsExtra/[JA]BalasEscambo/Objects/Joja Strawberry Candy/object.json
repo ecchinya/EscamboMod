@@ -1,0 +1,23 @@
+{
+  "Name": "Joja Strawberry Candy",
+  "Description": "Joja Strawberry Candy",
+  "Category": "Cooking",
+  "Edibility": 33,
+  "Price": 0,
+  "EdibleIsDrink": false,
+  "IsColored": false,
+
+  "GiftTastes": {
+    "Like": ["Shane", "Pam", "Willy", "Demetrius", "Emily"],
+	"Dislike": [],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Bala de morango da Joja",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "Bala de morango da joja",
+    },
+}

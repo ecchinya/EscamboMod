@@ -1,0 +1,619 @@
+{
+    "Shops": [
+        {
+            "ShopName": "FeastWinterStarBuy",
+            "ItemStocks": [
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Winter Banner",
+                        "Ornate Window",
+                        "Large Red Rug",
+                        "Decorative Axe"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "L. Light String",
+                        "Manicured Pine"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "S. Pine",
+                        "Wood Panel"
+                    ],
+                    "ItemIDs": [
+                        2635
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "6",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1390,
+                        2636
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Festive Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "42",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Winter Banner",
+                        "Ornate Window",
+                        "Large Red Rug",
+                        "Decorative Axe"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "L. Light String",
+                        "Manicured Pine"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "S. Pine",
+                        "Wood Panel"
+                    ],
+                    "ItemIDs": [
+                        1390,
+                        2635,
+                        2636
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Festive Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "21",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Winter Banner",
+                        "L. Light String",
+                        "S. Pine",
+                        "Ornate Window",
+                        "Large Red Rug",
+                        "Decorative Axe",
+                        "Wood Panel",
+                        "Manicured Pine"
+                    ],
+                    "ItemIDs": [
+                        1390,
+                        2635,
+                        2636
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Festive Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Winter Banner",
+                        "L. Light String",
+                        "Ornate Window",
+                        "Large Red Rug",
+                        "Decorative Axe",
+                        "Manicured Pine"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "S. Pine",
+                        "Wood Panel"
+                    ],
+                    "ItemIDs": [
+                        1390,
+                        2635,
+                        2636
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Festive Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Winter Root",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Winter Banner",
+                        "Ornate Window",
+                        "Large Red Rug",
+                        "Decorative Axe"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Winter Root",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "L. Light String",
+                        "Manicured Pine"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Winter Root",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "S. Pine",
+                        "Wood Panel"
+                    ],
+                    "ItemIDs": [
+                        2635
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Winter Root",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1390,
+                        2636
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Winter Root",
+                    "StockCurrencyStack": "50",
+                    "ItemNames": [
+                        "Festive Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Winter Root",
+                    "StockCurrencyStack": "84",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crystal Fruit",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Winter Banner",
+                        "Ornate Window",
+                        "Large Red Rug",
+                        "Decorative Axe"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crystal Fruit",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "L. Light String",
+                        "Manicured Pine"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crystal Fruit",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "S. Pine",
+                        "Wood Panel"
+                    ],
+                    "ItemIDs": [
+                        2635
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crystal Fruit",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1390,
+                        2636
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crystal Fruit",
+                    "StockCurrencyStack": "50",
+                    "ItemNames": [
+                        "Festive Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crystal Fruit",
+                    "StockCurrencyStack": "84",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Snow Yam",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Winter Banner",
+                        "Ornate Window",
+                        "Large Red Rug",
+                        "Decorative Axe"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Snow Yam",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "L. Light String",
+                        "Manicured Pine"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Snow Yam",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "S. Pine",
+                        "Wood Panel"
+                    ],
+                    "ItemIDs": [
+                        2635
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Snow Yam",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1390,
+                        2636
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Snow Yam",
+                    "StockCurrencyStack": "50",
+                    "ItemNames": [
+                        "Festive Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Snow Yam",
+                    "StockCurrencyStack": "84",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crocus",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Winter Banner",
+                        "Ornate Window",
+                        "Large Red Rug",
+                        "Decorative Axe"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crocus",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "L. Light String",
+                        "Manicured Pine"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crocus",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "S. Pine",
+                        "Wood Panel"
+                    ],
+                    "ItemIDs": [
+                        2635
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crocus",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1390,
+                        2636
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crocus",
+                    "StockCurrencyStack": "50",
+                    "ItemNames": [
+                        "Festive Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crocus",
+                    "StockCurrencyStack": "84",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Holly",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Winter Banner",
+                        "Ornate Window",
+                        "Large Red Rug",
+                        "Decorative Axe"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Holly",
+                    "StockCurrencyStack": "14",
+                    "ItemNames": [
+                        "L. Light String",
+                        "Manicured Pine"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Holly",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "S. Pine",
+                        "Wood Panel"
+                    ],
+                    "ItemIDs": [
+                        2635
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Holly",
+                    "StockCurrencyStack": "12",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1390,
+                        2636
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Holly",
+                    "StockCurrencyStack": "50",
+                    "ItemNames": [
+                        "Festive Dining Table"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Holly",
+                    "StockCurrencyStack": "84",
+                    "ItemNames": [
+                        "Tree of the Winter Star"
+                    ],
+                    "ItemIDs": []
+                }
+            ],
+            "When": [
+                "t 900 2300"
+            ],
+            "ClosedMessage": "Aguarde o 900 estar atr\u00e1s do balc\u00e3o para abrir a loja."
+        }
+    ]
+}

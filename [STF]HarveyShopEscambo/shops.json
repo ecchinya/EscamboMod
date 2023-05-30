@@ -1,0 +1,95 @@
+{
+    "VanillaShops": [
+        {
+            "ShopName": "HarveyShop",
+            "AddStockAboveVanilla": true,
+            "ReplaceInsteadOfAdd": true,
+            "ItemStocks": [
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "25",
+                    "ItemNames": [
+                        "Energy Tonic",
+                        "Muscle Remedy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Energy Tonic",
+                        "Muscle Remedy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Energy Tonic",
+                        "Muscle Remedy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Energy Tonic",
+                        "Muscle Remedy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Energy Tonic",
+                        "Muscle Remedy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Energy Tonic",
+                        "Muscle Remedy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Energy Tonic",
+                        "Muscle Remedy"
+                    ],
+                    "ItemIDs": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5467 @@
+{
+    "Shops": [
+        {
+            "ShopName": "JojaBuyVegGreen",
+            "ItemStocks": [
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coal",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coal",
+                    "StockCurrencyStack": "8",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coal",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coal",
+                    "StockCurrencyStack": "9",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Morel",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Morel",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Morel",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Common Mushroom",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Common Mushroom",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Common Mushroom",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Common Mushroom",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chanterelle",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chanterelle",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chanterelle",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmonberry",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmonberry",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmonberry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmonberry",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Grape",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Grape",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Grape",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spice Berry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spice Berry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spice Berry",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blackberry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blackberry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blackberry",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ginger",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ginger",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ginger",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Albacore",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Albacore",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Albacore",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Anchovy",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Anchovy",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Anchovy",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blobfish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blobfish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blobfish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blue Discus",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blue Discus",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blue Discus",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bream",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bream",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bream",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bullhead",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bullhead",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bullhead",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Carp",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Carp",
+                    "StockCurrencyStack": "6",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Carp",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Catfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Catfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Catfish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chub",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chub",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chub",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dorado",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dorado",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dorado",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dorado",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eel",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eel",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eel",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Flounder",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Flounder",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Flounder",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ghostfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ghostfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ghostfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Algae",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Algae",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Algae",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Algae",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Halibut",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Halibut",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Halibut",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Herring",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Herring",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Herring",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Pip",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Pip",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ice Pip",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Largemouth Bass",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Largemouth Bass",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Largemouth Bass",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lava Eel",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lava Eel",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lava Eel",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lingcod",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lingcod",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lingcod",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lionfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lionfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Lionfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Midnight Carp",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Midnight Carp",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Midnight Carp",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Midnight Squid",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Midnight Squid",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Midnight Squid",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Octopus",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Octopus",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Octopus",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Perch",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Perch",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Perch",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pike",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pike",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pike",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pufferfish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pufferfish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pufferfish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pufferfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Rainbow Trout",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Rainbow Trout",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Rainbow Trout",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Mullet",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Mullet",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Mullet",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Snapper",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Snapper",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Snapper",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Snapper",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmon",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmon",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmon",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sandfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sandfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sandfish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sardine",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sardine",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sardine",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Scorpion Carp",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Scorpion Carp",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Scorpion Carp",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sea Cucumber",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sea Cucumber",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sea Cucumber",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sea Cucumber",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Shad",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Shad",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Shad",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slimejack",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slimejack",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Slimejack",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Smallmouth Bass",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Smallmouth Bass",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Smallmouth Bass",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Smallmouth Bass",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spook Fish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spook Fish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spook Fish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Squid",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Squid",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Squid",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Stingray",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Stingray",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Stingray",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Stingray",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Stonefish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Stonefish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Stonefish",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sturgeon",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sturgeon",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sturgeon",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sturgeon",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sunfish",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sunfish",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sunfish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Super Cucumber",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Super Cucumber",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Super Cucumber",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Super Cucumber",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tiger Trout",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tiger Trout",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tiger Trout",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tilapia",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tilapia",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tilapia",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tuna",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tuna",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tuna",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Salmon",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Salmon",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Salmon",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Void Salmon",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Walleye",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Walleye",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Walleye",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "White Algae",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "White Algae",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "White Algae",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "White Algae",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Woodskip",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Woodskip",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Woodskip",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ancient Fruit",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ancient Fruit",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ancient Fruit",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apple",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apple",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apple",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apricot",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apricot",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apricot",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Banana",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Banana",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Banana",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blueberry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blueberry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blueberry",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cranberries",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cranberries",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cranberries",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mango",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mango",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mango",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Melon",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Melon",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Melon",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Orange",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Orange",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Orange",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pomegranate",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pomegranate",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pomegranate",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pineapple",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pineapple",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pineapple",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Strawberry",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Strawberry",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Strawberry",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Peach",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Peach",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Peach",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eggplant",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eggplant",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eggplant",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiddlehead Fern",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiddlehead Fern",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiddlehead Fern",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Garlic",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Garlic",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Garlic",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Bean",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Bean",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Bean",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Hops",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Hops",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Kale",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Kale",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Kale",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Parsnip",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Parsnip",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Parsnip",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Potato",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Potato",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Potato",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pumpkin",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pumpkin",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pumpkin",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radish",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Cabbage",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Cabbage",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Cabbage",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Taro Root",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Taro Root",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Taro Root",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tomato",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tomato",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tomato",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Unmilled Rice",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Unmilled Rice",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Unmilled Rice",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wheat",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wheat",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wheat",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Yam",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Yam",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Yam",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Corn",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Corn",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Corn",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cauliflower",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cauliflower",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cauliflower",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bok Choy",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bok Choy",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bok Choy",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Beet",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Beet",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Beet",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Artichoke",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Artichoke",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Artichoke",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amaranth",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amaranth",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amaranth",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cloth",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z fall"
+                    ],
+                    "ItemNames": [
+                        "Artichoke",
+                        "Bok Choy"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z spring"
+                    ],
+                    "ItemNames": [
+                        "Green Bean",
+                        "Kale",
+                        "Cauliflower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "!z summer"
+                    ],
+                    "ItemNames": [
+                        "Hops"
+                    ],
+                    "ItemIDs": []
+                }
+            ],
+            "When": [
+                "t 900 2300"
+            ],
+            "ClosedMessage": "Aguarde o 900 estar atr\u00e1s do balc\u00e3o para abrir a loja."
+        }
+    ]
+}

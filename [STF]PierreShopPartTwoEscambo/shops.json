@@ -1,0 +1,3577 @@
+{
+    "Shops": [
+        {
+            "ShopName": "PierreBuyPartTwo",
+            "ItemStocks": [
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiber",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiber",
+                    "StockCurrencyStack": "15",
+                    "ItemNames": [
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiber",
+                    "StockCurrencyStack": "17",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiber",
+                    "StockCurrencyStack": "26",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sap",
+                    "StockCurrencyStack": "23",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sap",
+                    "StockCurrencyStack": "38",
+                    "ItemNames": [
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sap",
+                    "StockCurrencyStack": "43",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sap",
+                    "StockCurrencyStack": "65",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Morel",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Morel",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Morel",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Common Mushroom",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Common Mushroom",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Common Mushroom",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Common Mushroom",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Mushroom",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Mushroom",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Mushroom",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chanterelle",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Chanterelle",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Purple Mushroom",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Purple Mushroom",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmonberry",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmonberry",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmonberry",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Salmonberry",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Grape",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Grape",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Grape",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spice Berry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spice Berry",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spice Berry",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sweet Pea",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sweet Pea",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Sweet Pea",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiddlehead Fern",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiddlehead Fern",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Fiddlehead Fern",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wild Plum",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wild Plum",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wild Plum",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Hazelnut",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Hazelnut",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Hazelnut",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blackberry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blackberry",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blackberry",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crystal Fruit",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crystal Fruit",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crystal Fruit",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Snow Yam",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Snow Yam",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Snow Yam",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crocus",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crocus",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Crocus",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Holly",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Holly",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Holly",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wild Horseradish",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wild Horseradish",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wild Horseradish",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Daffodil",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Daffodil",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Daffodil",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Leek",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Leek",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Leek",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dandelion",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dandelion",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dandelion",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spring Onion",
+                    "StockCurrencyStack": "8",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spring Onion",
+                    "StockCurrencyStack": "13",
+                    "ItemNames": [
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spring Onion",
+                    "StockCurrencyStack": "15",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Spring Onion",
+                    "StockCurrencyStack": "22",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ginger",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ginger",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ginger",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Magma Cap",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Magma Cap",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cactus Fruit",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coconut",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cave Carrot",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cave Carrot",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cave Carrot",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Winter Root",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Winter Root",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Winter Root",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ancient Fruit",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ancient Fruit",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ancient Fruit",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apple",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apple",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apple",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apricot",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apricot",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Apricot",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Banana",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Banana",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Banana",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blueberry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blueberry",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Blueberry",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cherry",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cranberries",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cranberries",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cranberries",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mango",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mango",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mango",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Melon",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Melon",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Melon",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Orange",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Orange",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Orange",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pomegranate",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pomegranate",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pomegranate",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pineapple",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pineapple",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pineapple",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Strawberry",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Strawberry",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Strawberry",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Peach",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Peach",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Peach",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eggplant",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eggplant",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Eggplant",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Garlic",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Garlic",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Garlic",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Bean",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Bean",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Bean",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Hops",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Hops",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Hops",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Kale",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Kale",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Kale",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Parsnip",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Parsnip",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Parsnip",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Potato",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Potato",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Potato",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pumpkin",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pumpkin",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Pumpkin",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radish",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radish",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Radish",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Cabbage",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Cabbage",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Red Cabbage",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Taro Root",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Taro Root",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Taro Root",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tomato",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tomato",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tomato",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Unmilled Rice",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Unmilled Rice",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Unmilled Rice",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wheat",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wheat",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Wheat",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Yam",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Yam",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Yam",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Corn",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Corn",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Corn",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cauliflower",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cauliflower",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cauliflower",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bok Choy",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bok Choy",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Bok Choy",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Beet",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Beet",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Beet",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Artichoke",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Artichoke",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Artichoke",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amaranth",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amaranth",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Amaranth",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Coffee",
+                    "StockCurrencyStack": "7",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Green Tea",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Tea Leaves",
+                    "StockCurrencyStack": "5",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Honey",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Egg",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Egg",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Egg",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Ostrich Egg",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Milk",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Large Milk",
+                    "StockCurrencyStack": "4",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Milk",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "L. Goat Milk",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Duck Mayonnaise",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Dinosaur Mayonnaise",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Cheese",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Goat Cheese",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Truffle Oil",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "3",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "2",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Mineral Water",
+                        "Pierre Juice",
+                        "Pierre Juice Apricot",
+                        "Pierre Juice Lemon",
+                        "Pierre Juice Orange",
+                        "Pierre Juice Peach"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Diamond",
+                    "StockCurrencyStack": "1",
+                    "When": [
+                        "y 2",
+                        "!z winter"
+                    ],
+                    "ItemNames": [
+                        "Truffle Oil"
+                    ],
+                    "ItemIDs": []
+                }
+            ],
+            "When": [
+                "NPCAt Pierre 4 17"
+            ],
+            "ClosedMessage": "Aguarde o Pierre estar atr\u00e1s do balc\u00e3o para abrir a loja."
+        }
+    ]
+}

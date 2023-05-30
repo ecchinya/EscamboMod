@@ -1,0 +1,296 @@
+{
+    "Shops": [
+        {
+            "ShopName": "FlowerDanceBuy",
+            "ItemStocks": [
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Seasonal Decor"
+                    ],
+                    "ItemIDs": [
+                        192,
+                        204,
+                        108
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "9",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        108
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Daffodil",
+                        "Dandelion"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "21",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        137
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [
+                        "Wall Flower",
+                        "S. Wall Flower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Copper Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1820,
+                        1821
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [
+                        "Seasonal Decor"
+                    ],
+                    "ItemIDs": [
+                        192,
+                        204,
+                        108
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "5",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        108
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Daffodil",
+                        "Dandelion"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "11",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        137
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "4",
+                    "ItemNames": [
+                        "Wall Flower",
+                        "S. Wall Flower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iron Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1820,
+                        1821
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Seasonal Decor"
+                    ],
+                    "ItemIDs": [
+                        192,
+                        204,
+                        108
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        108
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Daffodil",
+                        "Dandelion"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        137
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Iridium Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Wall Flower",
+                        "S. Wall Flower"
+                    ],
+                    "ItemIDs": [
+                        1820,
+                        1821
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Seasonal Decor"
+                    ],
+                    "ItemIDs": [
+                        192,
+                        204,
+                        108
+                    ]
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "True",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        108
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "1",
+                    "ItemNames": [
+                        "Daffodil",
+                        "Dandelion"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "7",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        137
+                    ]
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "3",
+                    "ItemNames": [
+                        "Wall Flower",
+                        "S. Wall Flower"
+                    ],
+                    "ItemIDs": []
+                },
+                {
+                    "ItemType": "Furniture",
+                    "isRecipe": "False",
+                    "StockPrice": 0,
+                    "StockItemCurrency": "Gold Bar",
+                    "StockCurrencyStack": "2",
+                    "ItemNames": [],
+                    "ItemIDs": [
+                        1820,
+                        1821
+                    ]
+                }
+            ],
+            "When": [
+                "t 900 2300"
+            ],
+            "ClosedMessage": "Aguarde o 900 estar atr\u00e1s do balc\u00e3o para abrir a loja."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "Joja Coctel",
+  "Description": "The Joja Coquetel is a refreshing and citrusy drink, with a smooth vodka touch and a sweet taste.",
+  "Category": "Cooking",
+  "Edibility": 13,
+  "Price": 0,
+  "EdibleIsDrink": true,
+  "IsColored": false,
+"buffs": [
+  {
+    "type": "speed",
+    "value": 0,
+    "duration": 2000
+  }
+],
+  "GiftTastes": {
+    "Like": ["Shane", "Pam", "Willy", "Demetrius", "Emily"],
+	"Dislike": [],
+  },
+  "Recipe": null,
+    "NameLocalization":
+    {
+        "pt": "Coctel da Joja",
+    },
+    "DescriptionLocalization":
+    {
+        "pt": "O Joja Coquetel é um drink refrescante e cítrico, com toque suave de vodka e sabor doce",
+    },
+}
